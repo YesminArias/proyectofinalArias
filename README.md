@@ -30,3 +30,6 @@ http://127.0.0.1:8000/admin/
 credenciales 
 usuario: admin 
 contraseña: admin 
+
+
+link video https://www.loom.com/share/42ce0a15ed994fafb441ccb3a47db61b
